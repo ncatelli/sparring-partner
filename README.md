@@ -1,1 +1,1 @@
-# sparring_partner
+# sparring-partner
